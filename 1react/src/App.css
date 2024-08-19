@@ -1,0 +1,14 @@
+
+.titulo_principal {
+  color: #00698f; 
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
